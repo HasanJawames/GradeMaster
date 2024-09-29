@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 5500,
+            "driver": "MySQL",
+            "name": "mySql local",
+            "database": "gmasterDB",
+            "username": "root",
+            "connectionTimeout": 30,
+            "password": ""
+        }
+    ]
+}
